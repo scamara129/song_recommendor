@@ -17,3 +17,12 @@ make classes for song and playlist so that I can call methods like get_name(), g
 - Try different types of differences (cosine is often used for recommendations, but more research should be done)
 - Features importances: what features are most important for the overall "vibe"?
 - More personalized recommendations?
+
+## Resources
+Kaggle dataset: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs?resource=download
+
+Music Recommendation System: https://www.kaggle.com/code/vatsalmavani/music-recommendation-system-using-spotify-dataset/notebook
+
+Spotipy Documentation: https://spotipy.readthedocs.io/en/2.19.0/
+
+How to Authenticate with Spotipy: https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50
